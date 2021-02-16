@@ -1,0 +1,396 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .navbar, .navbar-brand, .subscribe-title, .subscribe-title p, h4{
+        padding: 2%;
+        margin: 0%;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgb(81 87 220);
+        border-color:rgb(81 87 220);
+    }
+
+    .header_area .main_menu .navbar {
+        padding: 0.5rem 10px;
+    }
+
+    .brand-area {
+        padding: 1rem 1rem;
+        margin-bottom: 1rem;
+    }
+    .services_title {
+        padding: 1rem;
+    }
+    
+    .about-title h2 span {
+        font-size: 30px;
+        line-height: 40px;
+        letter-spacing: 4px;
+    }
+    
+    .banner-img img {
+        padding: 5rem 0;
+    }
+    .services {
+        width: 100%;
+    }
+    .paragraph{
+        width: 100% !important;
+    }
+
+    /* ******** */
+    .header_area .main_menu .nav-item .nav-link {
+        padding: 10px 4px;
+        color: black;
+    }
+    .site-title h1 {
+        font-size: 40px;
+        line-height: 70px;
+    }
+    .site-title h4 {
+        font-size: 1.5rem !important;
+        line-height: 45px;
+        padding-bottom: 3rem;
+    }
+    .primary-button {
+        margin: 0 1rem !important;
+        padding: 12px 20px;
+    }
+    .secondary-button{
+        margin: 0 1rem !important;
+        padding: 12px 20px;
+    }
+    .title-text {
+        line-height: 55px;
+    }
+    .services_area {
+        padding: 2rem 1rem;
+    }
+    .services {
+        width: 100%;
+        padding: 0;
+    }
+    .services {
+        margin: 2rem 0rem;
+    }
+    .button-group button {
+        padding-right: 3rem !important;
+        line-height: 40px;
+    }
+    .project-area{
+        padding: 1rem 0 !important;
+    }
+    .button-group{
+        padding-bottom: 1rem;
+    }
+    .about-area {
+        padding: 3rem 0rem;
+    }
+    .client-talk {
+        margin: 1.5rem 0;
+    }
+    .subscribe {
+        padding: 7rem 0;
+        margin: 3rem auto;
+    }
+    .input-text-box input {
+        width: 300px;
+        padding: 0.5rem .5rem;
+        margin-bottom: 1rem;
+        margin-left: 6%;
+    }
+    .text-secondary {
+        padding-left: 8px;
+    }
+    .footer-area {
+        padding: 2rem 0;
+    }
+    .social a i {
+        padding: 1.2rem;
+    }
+    .subscribe-title h4 {
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 30px;
+        color: white;
+    }
+    .card-titl {
+        padding: 1.2rem 0;
+    }
+    .client-img {
+        margin-top: 1rem;
+    }
+    .question {
+        padding: 3rem 0;
+    }
+    .exdit-it h2{
+        font-size: 30px;
+    }
+    .progress-bbar {
+        padding: 0rem 0;
+    }
+    .progress-content p {
+        padding-bottom: 0rem;
+    }
+    .progress-content {
+        padding-bottom: 1.7rem;
+    }
+    
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar, .navbar-brand, .subscribe-title, .subscribe-title p, h4{
+        padding: 2%;
+        margin: 0%;
+    }
+
+    .navbar-light .navbar-toggler {
+        color: rgb(81 87 220);
+        border-color:rgb(81 87 220);
+    }
+
+    .header_area .main_menu .navbar {
+        padding: 0.5rem 10px;
+    }
+
+    .brand-area {
+        padding: 1rem 1rem;
+        margin-bottom: 1rem;
+    }
+    .services_title {
+        padding: 1rem;
+    }
+    
+    .about-title h2 span {
+        font-size: 30px;
+        line-height: 40px;
+        letter-spacing: 4px;
+    }
+    
+    .banner-img img {
+        padding: 5rem 0;
+    }
+    .services {
+        width: 100%;
+    }
+    .paragraph{
+        width: 100% !important;
+    }
+
+    /* ******** */
+    .header_area .main_menu .nav-item .nav-link {
+        padding: 10px 4px;
+        color: black;
+    }
+    .site-title h1 {
+        font-size: 40px;
+        line-height: 70px;
+    }
+    .site-title h4 {
+        font-size: 1.5rem !important;
+        line-height: 45px;
+        padding-bottom: 3rem;
+    }
+    .primary-button {
+        margin: 0 1rem !important;
+        padding: 12px 20px;
+    }
+    .secondary-button{
+        margin: 0 1rem !important;
+        padding: 12px 20px;
+    }
+    .title-text {
+        line-height: 55px;
+    }
+    .services_area {
+        padding: 2rem 1rem;
+    }
+    .services {
+        width: 100%;
+        padding: 0;
+    }
+    .services {
+        margin: 2rem 0rem;
+    }
+    .button-group button {
+        padding-right: 2rem !important;
+        line-height: 50px;
+    }
+    .project-area{
+        padding: 1rem 0 !important;
+    }
+    .button-group{
+        padding-bottom: 2rem;
+    }
+    .about-area {
+        padding: 3rem 0rem;
+    }
+    .client-talk {
+        margin: 1.5rem 0;
+    }
+    .subscribe {
+        padding: 7rem 0;
+        margin: 3rem auto;
+    }
+    .input-text-box input {
+        width: 300px;
+        padding: 0.5rem .5rem;
+        margin-bottom: 1rem;
+        margin-left: 6%;
+    }
+    .text-secondary {
+        padding-left: 8px;
+    }
+    .footer-area {
+        padding: 2rem 0;
+    }
+    .social a i {
+        padding: 1.2rem;
+    }
+
+    .subscribe-title h4 {
+        font-size: 25px;
+        font-weight: 500;
+        line-height: 30px;
+        color: white;
+    }
+    .card-titl {
+        padding: 1.2rem 0;
+    }
+    .client-img {
+        margin-top: 1rem;
+    }
+    .question {
+        padding: 3rem 0;
+    }
+    .exdit-it h2{
+        font-size: 40px;
+    }
+    .progress-bbar {
+        padding: 1rem 0;
+    }
+    .progress-content {
+        padding-bottom: 2rem;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .header_area .main_menu .nav-item .nav-link {
+        
+        
+        padding: 15px 0;
+        color: black;
+    }
+    .paragraph {
+        width: 100% !important;
+    }
+    .header_area .main_menu .navbar {
+        padding: 0.5rem 1rem;
+    }
+    .site-title h3 {
+        padding-top: 25%;
+        font-weight: 500;
+    }
+    .brand-area {
+        padding: 1rem 7rem;
+    }
+    .expericnce-area {
+        padding-left: 0rem;
+    }
+    .row.first-row {
+        margin-bottom: 6rem;
+    }
+    .services_title h1 {
+        line-height: 60px;
+    }
+    .client-talk {
+        box-shadow: 0px 10px 30px rgb(57 56 61 / 21%);
+        cursor: pointer;
+        padding: 3rem 4rem;
+    }
+    .t-center {
+        text-align: center !important;
+        margin-bottom: 5rem;
+    }
+    .project-area {
+        padding: 0rem 0;
+    }
+    .question {
+        padding: 2rem 0;
+    }
+    .about-area {
+        padding: 3rem 5rem;
+    }
+    .about-title p{
+        padding-bottom: 1.5rem;
+    }
+    .card-titl {
+        padding: 1.3rem 0;
+    }
+    .footer-area {
+        padding: 2rem 0;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    header_area .main_menu .navbar {
+        padding: .5rem 2rem;
+    }
+    .header_area .main_menu .navbar {
+        padding: .5rem 1rem;
+    }
+    .row.first-row {
+        padding-bottom: 5rem;
+    }
+    .site-title h4 {
+        line-height: 4rem;
+        margin-bottom: 2rem;
+    }
+    .paragraph {
+        width: 100% !important;
+    }
+    .brand-area {
+        padding: 1rem 10rem;
+        margin-bottom: 4rem;
+    }
+    .client-img {
+        margin-top: 31px;
+        width: 120%;
+    }
+    .services {
+        width: 100%;      
+    }
+    .card-body {
+        flex: 1 1 auto;
+        padding: 1rem 1rem;
+        height: 12rem;
+    }
+}
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    
+    .header_area .main_menu .navbar {
+        padding: 0rem 5rem;
+        background: white;
+        box-shadow: 0px 2px 5px rgb(57 56 61 / 21%);
+        z-index: 9999;
+    }
+    .brand-area {
+        padding: 1rem 10rem;
+    }
+    
+}
+
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+    .header_area .main_menu .navbar {
+        padding: 0rem 9rem;
+    }
+    .brand-area {
+        padding: 1rem 15rem;
+    }
+} 
